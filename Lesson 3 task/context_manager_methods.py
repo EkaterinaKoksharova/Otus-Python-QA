@@ -5,7 +5,7 @@ class ClassContextManager:
 
     pathcsv = 'Data/books.csv'
     pathjson = 'Data/users.json'
-    pathjson_output = 'Lesson 3 task/output.json'
+    pathjson_output = 'output.json'
 
     def books_csv_reader(self):
         """ Read data from a CSV file """
